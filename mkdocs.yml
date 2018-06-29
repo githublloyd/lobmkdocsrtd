@@ -1,0 +1,65 @@
+# Project Information
+site_name: ERP SR Repo
+site_description: 'An overview of Version 1 Cloud services'
+site_author: 'Rob Jennings'
+#site_url: 'https://john-doe.github.io/my-project'
+
+
+# Repository
+repo_name: 'Edit on Version 1 Bitbucket'
+repo_url: 'https://git.version1.com/projects/V1INOV8/repos/v1-db-migration/'
+
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Version 1'
+
+
+# Options
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/version1tweets'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/company/version-1'
+
+
+# Styling (V1 colors are '#0e2e36')
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Cyan'
+  logo: media/images/logo_180x180.png
+
+extra_css:
+    - css/theme_extra.css
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false,linenums=true)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+
+# Sitemap
+pages:
+  - Page 1: 'ewf.md'
+  - Page 2: 'rtd.md'
+  - Page 3: 'index.md'

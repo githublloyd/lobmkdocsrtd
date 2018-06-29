@@ -1,0 +1,65 @@
+# Earth, Wind & Fire
+## September
+
+[YouTube link](https://www.youtube.com/watch?v=Gs069dndIYk)
+
+> Do you remember the 21st night of September?
+> Love was changing the minds of pretenders
+> While chasing the clouds away
+
+> Our hearts were ringing
+> In the key that our souls were singing
+> As we danced in the night
+> Remember how the stars stole the night away
+
+> Hey hey hey
+> Ba de ya, say do you remember
+> Ba de ya, dancing in September
+> Ba de ya, never was a cloudy day
+> Ba duda, ba duda, ba duda, badu
+> Ba duda, badu, ba duda, badu
+> Ba duda, badu, ba duda
+
+> My thoughts are with you
+> Holding hands with your heart to see you
+> Only blue talk and love
+> Remember how we knew love was here to stay
+> Now December found the love that we shared in September
+> Only blue talk and love
+> Remember the true love we share today
+
+> Hey hey hey
+> Ba de ya, say do you remember
+> Ba de ya, dancing in September
+> Ba de ya, never was a cloudy day
+
+> There was a
+> Ba de ya, say do you remember
+> Ba de ya, dancing in September
+> Ba de ya, golden dreams were shinny days
+
+> The bell was ringing
+> Our souls were singing
+> Do you remember, never a cloudy day
+
+> There was a
+> Ba de ya, say do you remember
+> Ba de ya, dancing in September
+> Ba de ya, never was a cloudy day
+
+> There was a
+> Ba de ya, say do you remember
+> Ba de ya, dancing in September
+> Ba de ya, golden dreams were shinny days
+
+> Ba de ya de ya de ya
+> Ba de ya de ya de ya
+> Ba de ya de ya de ya de ya
+
+> Ba de ya de ya de ya
+> Ba de ya de ya de ya
+> Ba de ya de ya de ya de ya
+
+### *Songwriters:* Al McKay / Maurice White / Alta Willis
+
+:octocat: @githublloyd :octocat:
