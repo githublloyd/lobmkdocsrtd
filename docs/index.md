@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+Welcome to the ERP Steps Recorder Knowledge Hub!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This site is created using MkDocs, ReadTheDocs.io, Node.js, and the Microsoft Steps Recorder.
+This is a minimal viable product produced for the Version 1 Hackathon 2018.
 
-## Commands
+## How to use
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Use the Microsoft Steps Recorder on your laptop to record a process.
+* Edit that file in Microsoft Word to add or remove items you want, save as .docx
+* Start the Node.js application and upload the .docx file to translate the .docx file to a .md file.
+* Hit the 'Push to GitHub' button to upload the file to the ERP GitHub repository and watch the Read The Docs website update in realtime using webhooks.

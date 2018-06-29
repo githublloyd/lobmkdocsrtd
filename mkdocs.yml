@@ -1,14 +1,8 @@
-# Project Information
-site_name: ERP SR Repo
-site_description: 'An overview of Version 1 Cloud services'
-site_author: 'Rob Jennings'
-#site_url: 'https://john-doe.github.io/my-project'
-
-
-# Repository
-repo_name: 'Edit on Version 1 Bitbucket'
-repo_url: 'https://git.version1.com/projects/V1INOV8/repos/v1-db-migration/'
-
+#
+Project Information
+site_name: ERP Knowledge Hub
+site_description: 'ERP troubleshooting knowledge docs'
+site_author: 'Nikki and Lloyd'
 
 # Copyright
 copyright: 'Copyright &copy; 2018 Version 1'
@@ -68,6 +62,7 @@ markdown_extensions:
 
 # Sitemap
 pages:
-  - Page 1: 'ewf.md'
-  - Page 2: 'rtd.md'
-  - Page 3: 'index.md'
+  - Information and How to use: 'index.md'
+  - Diana Ross: 'rtd.md'
+  - Earth, Wind and Fire: 'ewf.md'
+  - Steps Recorder Example: 'mynewfile.md'
