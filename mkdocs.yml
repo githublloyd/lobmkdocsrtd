@@ -21,6 +21,12 @@ extra:
       link: 'https://twitter.com/version1tweets'
     - type: 'linkedin'
       link: 'https://linkedin.com/company/version-1'
+  tabs: false
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Cyan'
+  logo: media/images/logo_180x180.png
+  repo_icon: 'github'
 
 
 # Styling (V1 colors are '#0e2e36')
@@ -32,6 +38,8 @@ theme:
     primary: 'Blue Grey'
     accent: 'Cyan'
   logo: media/images/logo_180x180.png
+
+theme_dir: 'docs/theme/material'
 
 extra_css:
     - css/theme_extra.css
