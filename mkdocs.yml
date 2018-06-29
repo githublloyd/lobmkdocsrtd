@@ -1,0 +1,68 @@
+#
+Project Information
+site_name: ERP Knowledge Hub
+site_description: 'ERP troubleshooting knowledge docs'
+site_author: 'Nikki and Lloyd'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Version 1'
+
+
+# Options
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/version1tweets'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/company/version-1'
+  tabs: false
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Cyan'
+  logo: media/images/logo_180x180.png
+  repo_icon: 'github'
+
+
+# Styling (V1 colors are '#0e2e36')
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Cyan'
+  logo: media/images/logo_180x180.png
+
+theme_dir: 'docs/theme/material'
+
+extra_css:
+    - css/theme_extra.css
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false,linenums=true)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+
+# Sitemap
+pages:
+  - Information and How to use: 'index.md'
+  - Diana Ross: 'rtd.md'
+  - Earth, Wind and Fire: 'ewf.md'
+  - Steps Recorder Example: 'mynewfile.md'

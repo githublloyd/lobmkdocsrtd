@@ -1,0 +1,8 @@
+# This contains the python modules that are needed to build the documentation
+# and can be installed using
+#   pip install -r requirements_python2.txt
+#
+mkdocs>=0.17.4
+mkdocs-material>=2.9.1
+Markdown>=2.6.10
+pymdown-extensions>=4.11
