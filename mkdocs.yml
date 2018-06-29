@@ -1,5 +1,4 @@
-#
-Project Information
+#Project Information
 site_name: ERP Knowledge Hub
 site_description: 'ERP troubleshooting knowledge docs'
 site_author: 'Nikki and Lloyd'
@@ -63,6 +62,7 @@ markdown_extensions:
 # Sitemap
 pages:
   - Information and How to use: 'index.md'
-  - Diana Ross: 'rtd.md'
+  - Diana Ross: 'diana.md'
   - Earth, Wind and Fire: 'ewf.md'
-  - Steps Recorder Example: 'mynewfile.md'
+  - Steps Recorder - Example: '001sr.md'
+  - Steps Recorder - Enterprise Cloud Portfolio: 'ecsteps.md'
