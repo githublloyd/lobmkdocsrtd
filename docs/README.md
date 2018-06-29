@@ -1,2 +1,0 @@
-# rtd
-readthedocs.io webhook
