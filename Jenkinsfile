@@ -3,6 +3,8 @@ pipeline {
   environment {
     APP = 'docs'
   }
+  
+  agent any
 
   options {
       timeout(time: 10, unit: 'MINUTES')
